@@ -1,0 +1,6 @@
+name: Reiniciar
+version: 1.0
+author: yoni
+main: me.yonatan.reiniciar.Main
+commands:
+  reiniciar:
